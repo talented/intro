@@ -1,4 +1,4 @@
-# Exercises for the Basics section
+# Exercises for the Methods section
 
 #1
 def greeting(name)

@@ -1,4 +1,4 @@
-# Exercises for the Basics section
+# Exercises for the Loops section
 #1
 x = [1,2,3,4,5]
 x.each {|a| p a+1}
